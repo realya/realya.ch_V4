@@ -12,7 +12,7 @@ module.exports = {
   author: 'Slendy_Milky',
 
   // open graph metadata (optional)
-  description: 'Realya le site d'ISO',
+  description: "Realya le site d'ISO",
   socialImageTitle: 'Realya.ch',
   socialImageSubtitle: 'Realya ! 👋',
 
