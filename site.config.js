@@ -1,6 +1,6 @@
 module.exports = {
   // where it all starts -- the site's root Notion page (required)
-  rootNotionPageId: 'Realya-47614009e73f4b4fa4b73172f752c9aa',
+  rootNotionPageId: 'Realya-The-ISO-Database-60e98090d4824cc4aa7af475b452db06',
 
   // if you want to restrict pages to a single notion workspace (optional)
   // (this should be a Notion ID; see the docs for how to extract this)
